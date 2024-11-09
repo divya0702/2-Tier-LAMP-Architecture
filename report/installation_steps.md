@@ -1,4 +1,3 @@
-```markdown
 # Installation Steps
 
 ## 1. VM Setup
@@ -165,6 +164,3 @@ sudo ufw allow from <host-ip-address> to any port 22
    ```
    ssh webadmin@<www-vm-ip-address>
    ```
-
-This setup allows the webadmin user to modify files in /var/www/html without having root access or the ability to modify system configurations.
-```
