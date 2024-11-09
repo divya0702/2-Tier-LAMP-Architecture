@@ -1,6 +1,6 @@
 # 2-tier LAMP Platform
 
-This repository contains the documentation and configuration files for a 2-tier Linux Apache MySQL PHP (LAMP) platform, developed as part of the ENPM818P: Linux System Administration course.
+This repository contains the documentation and configuration files for a 2-tier Linux Apache MySQL PHP (LAMP) platform.
 
 ## Project Overview
 
